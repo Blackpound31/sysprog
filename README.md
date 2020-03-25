@@ -1,1 +1,1 @@
-# sysprog
+Alexandr Dupak
